@@ -36,5 +36,3 @@
 ![scikitlearn](https://img.shields.io/badge/-scikitlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![torch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![cuda](https://img.shields.io/badge/-cuda-76B900?style=flat&logo=nvidia&logoColor=white)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=antoine-df)
