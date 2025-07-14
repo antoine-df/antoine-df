@@ -28,3 +28,13 @@
 ![latex](https://img.shields.io/badge/-latex-008080?style=flat&logo=latex&logoColor=white)
 
 **other:**
+![r](https://img.shields.io/badge/-r-276DC3?style=flat&logo=r&logoColor=white)
+![prolog](https://img.shields.io/badge/-prolog-000000?style=flat&logo=gnu-prolog&logoColor=white)
+![sparql](https://img.shields.io/badge/-sparql-0C8D9B?style=flat)
+![owl](https://img.shields.io/badge/-owl-000000?style=flat&logo=web-semantics&logoColor=white)
+![seaborn](https://img.shields.io/badge/-seaborn-000000?style=flat)
+![scikitlearn](https://img.shields.io/badge/-scikitlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![torch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![cuda](https://img.shields.io/badge/-cuda-76B900?style=flat&logo=nvidia&logoColor=white)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=antoine-df)
