@@ -1,6 +1,6 @@
 # bonjour / hello
 
-✨ efficient full-stack developer, currently developing expertise in data science and AI. I am passionate and ambitious about working in these fields.
+✨ efficient full-stack developer, currently developing expertise in data science and AI. ambitious about working in these fields.
 
 ✨ currently completing my 5th year in the software engineering program at Epitech Lyon. gained experience in C, C++, JavaScript, TypeScript, and Python.
 
